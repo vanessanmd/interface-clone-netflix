@@ -1,4 +1,4 @@
 ### CRIAÇÃO DE PAGINA CLONE DO NETFLIX
 
-- Utilisando html, css e javascript
-- Utilização de extensão jquery
+- Utilizando html, css e javascript
+- Utilização da biblioteca jQuery 
